@@ -5,6 +5,7 @@
     background-image: url("https://media1.tenor.com/images/5b8c6a3b7073ebf5a40436fa7c6ed3d5/tenor.gif?itemid=14039500");
     background-repeat: no-repeat;
     background-size: cover;
+    height: 60px;
 }
 .banner{
     background-image: url("https://i.pinimg.com/originals/b3/d3/be/b3d3bedd85ac3bafd7fa54efb158db6c.png");
@@ -14,18 +15,25 @@
     width: auto;
     height:fit-content;
 }
+.honor{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
 .imgp{
     width:300px;
     height:600px;
     display: inline;
     justify-content: space-between;
 }
+
 .boxe{
     padding: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(255, 111, 0);
+    background-color: rgb(255, 0, 140);
 }
 .yout{
     padding: 50px;
@@ -33,7 +41,7 @@
 }
 .fav{
     padding:50px;
-    background-color: rgb(94, 255, 0);
+    background-color: rgb(0, 255, 110);
 }
 .bannerm{
     background-image:url("https://th.bing.com/th/id/R.ee03a1441864ca38f4c9199acdb2abbe?rik=UWjybwkVwwvy5A&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f08%2fDownload-Free-Funky-Wallpaper.jpg&ehk=1mQpSbaFHgxXZrXIRp8tcaKaooj0weQ4WXMhZ8Cca3k%3d&risl=&pid=ImgRaw&r=0");
