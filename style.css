@@ -7,12 +7,33 @@
     background-size: cover;
 }
 .banner{
-    background-image: url("https://wallpapers.com/images/hd/funky-colored-retro-art-kkzq2rql0pry4cx8.jpg");
-    width:fit-content ;
+    background-image: url("https://i.pinimg.com/originals/b3/d3/be/b3d3bedd85ac3bafd7fa54efb158db6c.png");
+
 }
 .carousel-inner {
     width: auto;
-    height: 550px;
+    height:fit-content;
+}
+.imgp{
+    width:300px;
+    height:600px;
+    display: inline;
+    justify-content: space-between;
+}
+.boxe{
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 111, 0);
+}
+.yout{
+    padding: 50px;
+    background-color: blueviolet;
+}
+.fav{
+    padding:50px;
+    background-color: rgb(94, 255, 0);
 }
 .bannerm{
     background-image:url("https://th.bing.com/th/id/R.ee03a1441864ca38f4c9199acdb2abbe?rik=UWjybwkVwwvy5A&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f08%2fDownload-Free-Funky-Wallpaper.jpg&ehk=1mQpSbaFHgxXZrXIRp8tcaKaooj0weQ4WXMhZ8Cca3k%3d&risl=&pid=ImgRaw&r=0");
